@@ -1,4 +1,4 @@
-# Jackson-dataformat-xml-osgi
+# jackson-dataformat-xml-osgi
 
 jackson-dataformat-xml (and its dependencies) repackaged as an OSGI bundle.
 
